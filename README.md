@@ -1,7 +1,6 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/D4E16AQFVCf8g_cShKw/profile-displaybackgroundimage-shrink_350_1400/0/1666613761123?e=1673481600&v=beta&t=FxUQE_cHE4yWw16MWq91OcDpYeM9F2yIGP7KqjESYEg)
 <h1 align="center">Hi 👋, I'm Furkan Kumsal</h1>
 <h3 align="center">A passionate software developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/furkankumsal/gif/main/Design%20ohne%20Titel.gif?token=GHSAT0AAAAAAB234UKFEX3W7IMYCBALNDMIY3I5GRA">
 
 - 🌱 I’m currently learning **Python,Spring, Kubernetes**
 
